@@ -37,7 +37,7 @@
 
 ## :clapper: Tela(s) <a name="-telas"/></a>
 
-![Tela](https://github.com/ravarmes/threads-corridacavalos-javaswing/blob/master/assets/threads-corridacavalos-javaswing.git)
+![Tela](https://github.com/ravarmes/threads-corridacavalos-javaswing/blob/master/assets/threads-corridacavalos-javaswing.gif)
 
 ## :link: Links <a name="-links"/></a>
 
